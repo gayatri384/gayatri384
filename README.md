@@ -1,10 +1,13 @@
 <h1 align="center">Hey 👋, I'm Gayatri Chauhan</h1>
-<h3 align="center">🚀 Aspiring .NET Developer | Backend Developer</h3>
+
+<h3 align="center">
+✨ Turning ideas into scalable real-world applications ✨ <br>
+💻 .NET Backend Developer | ASP.NET Core • Web API • SQL Server
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;.NET+Backend+Developer;ASP.NET+Core+Web+API+Developer;SQL+Server+Developer;Full+Stack+.NET+Developer&center=true&width=650&height=45&color=0A66C2&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=.NET+Developer;ASP.NET+Core+Web+API+Developer;SQL+Server+Specialist;Building+Scalable+Applications&center=true&width=650&height=45&color=F75C7E&size=24&pause=1000">
 </p>
-
 
 ### ✨ About Me
 - 🎓 MCA Student with strong interest in software development  
