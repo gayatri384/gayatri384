@@ -98,6 +98,7 @@
 #### ⚙️ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet" />
+  <img src="https://img.shields.io/badge/Web%20API-ASP.NET-blue" />
 </p>
 - ASP.NET Core, Web API  
 
@@ -109,11 +110,13 @@
 #### 🗄️ Database
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
-- SQL Server  
 
 #### 🔐 Authentication
-- JWT  
+<p>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+</p>
 
 #### 🧰 Tools
 <p>
