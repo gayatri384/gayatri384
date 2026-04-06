@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;.NET+Backend+Developer;ASP.NET+Core+Web+API+Developer;SQL+Server+Developer;Full+Stack+.NET+Developer&center=true&width=650&height=45&color=0A66C2&size=22">
 </p>
----
+
 
 ### ✨ About Me
 - 🎓 MCA Student with strong interest in software development  
