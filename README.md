@@ -125,9 +125,13 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gayatri384&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gayatri384&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gayatri384&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gayatri384&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
